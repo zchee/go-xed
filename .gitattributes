@@ -1,0 +1,6 @@
+# go-xed project gitattributes file
+#  https://github.com/github-linguist/linguist/blob/master/docs/overrides.md
+
+* text=auto eol=lf
+
+*.go -text diff=go
